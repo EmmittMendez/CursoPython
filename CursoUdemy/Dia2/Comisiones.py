@@ -1,3 +1,5 @@
+#Solucion del curso
+
 nombre = input("Por favor, dime tu nombre: ")
 ventas = int(input("Diga sus ventas totales del mes: "))
 

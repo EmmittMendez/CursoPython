@@ -17,7 +17,7 @@ print(f"La raiz cuadrada de {x} es igual a {x ** 0.5}")
 #La division al piso de 2 numeros
 print(f"{874//27}")
 
-#redondeo
+#Redondeo
 num1 = round(13/2,0)
 print(type(num1))
 
