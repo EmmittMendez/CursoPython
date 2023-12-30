@@ -2,7 +2,6 @@
 print("\nPrograma que recibe un texto")
 texto = input("Ingrese un texto:\n")
 mTexto = texto.lower()  #Convertimos todo a minusculas
-#print(mTexto)
 
 #letras a analizar
 let1= input("Ingrese la primera letra a analizar\n")
@@ -29,7 +28,7 @@ print("\nEl primer caracter del texto es:", char1)
 print("El ultimo caracter del texto es:", char2)
 
 #Invertimos el texto ingresado
-print("\nLas palabras en el texto invertido quedaria")
+print("\nInvertimos las palabras de nuestro texto")
 listTexto = texto.split()
 listTexto.reverse()
 rTexto = " ".join(listTexto)
