@@ -54,7 +54,6 @@ def invertir_palabra(palabra):
 inversa = invertir_palabra(palabra)
 print(f"La palabra original era '{palabra}' y el resultado es '{inversa}'")
 
-#Ejemplo 5
     
     
     
